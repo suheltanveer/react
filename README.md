@@ -1,4 +1,4 @@
-# react-todo-list
+# A Simple React App
 
-npm i
-npm run serve
+# npm i
+# npm run serve
